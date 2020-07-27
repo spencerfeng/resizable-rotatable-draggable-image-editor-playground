@@ -1,4 +1,4 @@
-export interface Center {
+export interface Point {
   x: number
   y: number
 }
